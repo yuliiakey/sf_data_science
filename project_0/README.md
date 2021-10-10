@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yuliiakey/sf_data_science/tree/main/project_0#оглавление)
 
 
 ### Какой кейс решаем?
@@ -31,22 +31,22 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yuliiakey/sf_data_science/tree/main/project_0#оглавление)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yuliiakey/sf_data_science/tree/main/project_0#оглавление)
 
 
 ### Результаты:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yuliiakey/sf_data_science/tree/main/project_0#оглавление)
 
 
 ### Выводы:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_7/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/yuliiakey/sf_data_science/tree/main/project_0#оглавление)
